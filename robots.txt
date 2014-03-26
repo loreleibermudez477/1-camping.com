@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /camping_9/
+Sitemap: http://www.1-camping.com/sitemap.xml 
